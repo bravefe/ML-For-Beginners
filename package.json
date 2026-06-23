@@ -25,5 +25,12 @@
 	"homepage": "https://github.com/microsoft/ML-For-Beginners#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
+	},
+	"overrides": {
+		"marked": "^4.3.0",
+		"json5": "^2.2.3",
+		"got": "^11.8.5",
+		"js-yaml": "^4.2.0",
+		"markdown-link-extractor": "^4.0.3"
 	}
 }
